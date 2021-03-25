@@ -1,3 +1,3 @@
 sdasdasd
 
-<a hrnef="mother.md">go</a>
+<a href="mother.md">go</a>

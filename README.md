@@ -6,4 +6,4 @@
 
 권지훈 : <A HREF = "kwonJiHoon.md"> 권지훈 </A> 
 
-황혜정 : <A HREF = "HwangHyeJung.md"> 황혜정 </A> 
+황혜정 : <A HREF = "HwangHyeJung.md"> 황혜정 </A>    
